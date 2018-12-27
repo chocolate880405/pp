@@ -1,0 +1,14 @@
+html{background:#FFC8B4;}
+
+.title{text-align:center;color:#000000; }
+
+.box1 {
+    transition: height 2s;
+}
+.box1-close {
+    height: 30px;
+}
+ 
+.box1-open {
+    height: 480px;
+}
